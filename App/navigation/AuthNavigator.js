@@ -13,6 +13,7 @@ import MediaPlayer4 from "../screens/StopFourElements/MediaPlayer4";
 import NonSequencedTour from "../screens/NonSequencedTour";
 
 
+
 const Stack = createStackNavigator();
 
 
